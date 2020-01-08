@@ -2,3 +2,12 @@
 .Rhistory
 .RData
 .Ruserdata
+.iws
+workspace.xml
+tasks.xml
+.idea/
+venv
+*.pyc
+.DS_Store
+.env
+.ipynb_checkpoints
