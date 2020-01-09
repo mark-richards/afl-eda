@@ -1,0 +1,208 @@
+,date,venue,crowd,match_id,home_team,away_team,home_team_score,away_team_score
+0, Thu 21 Mar 7:25pm,MCG,85016,9721,Carlton, Richmond,64,97
+1, Fri 22 Mar 7:50pm,MCG,78017,9722,Collingwood, Geelong,65,72
+2, Sat 23 Mar 1:45pm,MCG,38866,9723,Melbourne, Port Adelaide,61,87
+3, Sat 23 Mar 4:05pm,Adelaide Oval,50180,9724,Adelaide, Hawthorn,55,87
+4, Sat 23 Mar 7:20pm,Gabba,20029,9726,Brisbane, West Coast,102,58
+5, Sat 23 Mar 7:25pm,Marvel Stadium,32303,9725,Western Bulldogs, Sydney,82,65
+6, Sun 24 Mar 1:10pm,Marvel Stadium,20291,9727,St Kilda, Gold Coast,85,84
+7, Sun 24 Mar 3:20pm,GIANTS Stadium,15424,9728,GWS, Essendon,112,40
+8, Sun 24 Mar 3:20pm,Optus Stadium,40033,9729,Fremantle, North Melbourne,141,59
+9, Thu 28 Mar 7:20pm,MCG,70699,9730,Richmond, Collingwood,66,110
+10, Fri 29 Mar 7:50pm,SCG,32575,9731,Sydney, Adelaide,62,88
+11, Sat 30 Mar 4:35pm,Marvel Stadium,44252,9732,Essendon, St Kilda,65,76
+12, Sat 30 Mar 4:40pm,Adelaide Oval,41552,9733,Port Adelaide, Carlton,88,72
+13, Sat 30 Mar 5:10pm,Optus Stadium,54985,9735,West Coast, GWS,104,52
+14, Sat 30 Mar 7:25pm,GMHBA Stadium,27561,9734,Geelong, Melbourne,126,46
+15, Sun 31 Mar 1:10pm,Marvel Stadium,23100,9736,North Melbourne, Brisbane,87,107
+16, Sun 31 Mar 3:20pm,MCG,39368,9737,Hawthorn, Western Bulldogs,87,106
+17, Sun 31 Mar 3:40pm,Metricon Stadium,10119,9738,Gold Coast, Fremantle,61,58
+18, Thu 4 Apr 7:20pm,Adelaide Oval,45631,9739,Adelaide, Geelong,75,99
+19, Fri 5 Apr 7:50pm,MCG,52475,9740,Melbourne, Essendon,112,130
+20, Sat 6 Apr 1:45pm,Marvel Stadium,39290,9741,Carlton, Sydney,74,93
+21, Sat 6 Apr 4:35pm,GIANTS Stadium,12697,9742,GWS, Richmond,125,76
+22, Sat 6 Apr 6:25pm,Gabba,19958,9743,Brisbane, Port Adelaide,107,90
+23, Sat 6 Apr 7:25pm,MCG,60878,9744,Collingwood, West Coast,76,98
+24, Sun 7 Apr 2:20pm,Marvel Stadium,22499,9745,Western Bulldogs, Gold Coast,68,73
+25, Sun 7 Apr 3:20pm,MCG,36174,9746,Hawthorn, North Melbourne,87,71
+26, Sun 7 Apr 3:20pm,Optus Stadium,38227,9747,Fremantle, St Kilda,71,66
+27, Thu 11 Apr 7:20pm,SCG,26669,9748,Sydney, Melbourne,78,100
+28, Fri 12 Apr 7:50pm,MCG,59257,9749,Collingwood, Western Bulldogs,78,64
+29, Sat 13 Apr 1:45pm,GMHBA Stadium,28780,9750,Geelong, GWS,75,79
+30, Sat 13 Apr 2:10pm,MCG,48289,9751,Essendon, Brisbane,112,65
+31, Sat 13 Apr 4:05pm,Adelaide Oval,38864,9752,Port Adelaide, Richmond,92,99
+32, Sat 13 Apr 6:10pm,Optus Stadium,58219,9754,West Coast, Fremantle,69,56
+33, Sat 13 Apr 7:25pm,Marvel Stadium,17207,9753,North Melbourne, Adelaide,71,59
+34, Sun 14 Apr 2:40pm,Metricon Stadium,14176,9755,Gold Coast, Carlton,59,57
+35, Sun 14 Apr 3:20pm,Marvel Stadium,35883,9756,St Kilda, Hawthorn,74,69
+36, Thu 18 Apr 7:35pm,Gabba,34017,9757,Brisbane, Collingwood,61,123
+37, Fri 19 Apr 4:20pm,Marvel Stadium,48278,9758,North Melbourne, Essendon,58,116
+38, Fri 19 Apr 6:10pm,Optus Stadium,49290,9759,West Coast, Port Adelaide,53,95
+39, Sat 20 Apr 1:45pm,Canberra Oval,11277,9760,GWS, Fremantle,82,106
+40, Sat 20 Apr 4:35pm,MCG,35558,9761,Melbourne, St Kilda,55,95
+41, Sat 20 Apr 7:25pm,Marvel Stadium,40053,9762,Richmond, Sydney,89,67
+42, Sun 21 Apr 1:10pm,Marvel Stadium,35069,9763,Western Bulldogs, Carlton,57,101
+43, Sun 21 Apr 4:10pm,Adelaide Oval,40847,9764,Adelaide, Gold Coast,119,46
+44, Mon 22 Apr 3:20pm,MCG,66347,9765,Hawthorn, Geelong,90,113
+45, Wed 24 Apr 7:35pm,MCG,72704,9766,Richmond, Melbourne,85,42
+46, Thu 25 Apr 3:20pm,MCG,92241,9767,Essendon, Collingwood,69,73
+47, Fri 26 Apr 7:20pm,Adelaide Oval,36099,9768,Port Adelaide, North Melbourne,88,72
+48, Sat 27 Apr 1:45pm,Metricon Stadium,13694,9769,Gold Coast, Brisbane,62,111
+49, Sat 27 Apr 4:35pm,Marvel Stadium,28404,9770,St Kilda, Adelaide,68,97
+50, Sat 27 Apr 6:10pm,Optus Stadium,43732,9772,Fremantle, Western Bulldogs,88,69
+51, Sat 27 Apr 7:25pm,SCG,29780,9771,Sydney, GWS,79,120
+52, Sun 28 Apr 3:20pm,UTAS Stadium,15888,9773,Hawthorn, Carlton,93,88
+53, Sun 28 Apr 4:40pm,GMHBA Stadium,28085,9774,Geelong, West Coast,104,46
+54, Fri 3 May 7:50pm,Marvel Stadium,37559,9775,Collingwood, Port Adelaide,108,69
+55, Sat 4 May 1:45pm,MCG,40864,9776,Melbourne, Hawthorn,79,74
+56, Sat 4 May 1:45pm,Canberra Oval,12633,9777,GWS, St Kilda,114,70
+57, Sat 4 May 4:35pm,Gabba,20075,9778,Brisbane, Sydney,103,81
+58, Sat 4 May 6:10pm,Optus Stadium,47497,9780,West Coast, Gold Coast,80,57
+59, Sat 4 May 7:25pm,Marvel Stadium,36151,9779,Western Bulldogs, Richmond,99,52
+60, Sun 5 May 1:10pm,Marvel Stadium,42430,9781,Carlton, North Melbourne,62,120
+61, Sun 5 May 3:20pm,MCG,63527,9782,Geelong, Essendon,86,54
+62, Sun 5 May 4:10pm,Adelaide Oval,42383,9783,Adelaide, Fremantle,51,34
+63, Fri 10 May 7:50pm,SCG,26502,9784,Sydney, Essendon,77,72
+64, Sat 11 May 1:45pm,MCG,69289,9786,Carlton, Collingwood,87,106
+65, Sat 11 May 1:45pm,Mars Stadium,9039,9785,Western Bulldogs, Brisbane,92,76
+66, Sat 11 May 4:35pm,Metricon Stadium,9765,9787,Gold Coast, Melbourne,60,61
+67, Sat 11 May 7:10pm,Adelaide Oval,49675,9789,Port Adelaide, Adelaide,68,88
+68, Sat 11 May 7:25pm,Marvel Stadium,24246,9788,St Kilda, West Coast,70,88
+69, Sun 12 May 1:10pm,Marvel Stadium,21156,9790,North Melbourne, Geelong,80,104
+70, Sun 12 May 3:20pm,Optus Stadium,42641,9792,Fremantle, Richmond,86,111
+71, Sun 12 May 3:20pm,MCG,14636,9791,Hawthorn, GWS,71,38
+72, Fri 17 May 6:10pm,Optus Stadium,51162,9793,West Coast, Melbourne,85,69
+73, Sat 18 May 1:45pm,MCG,60702,9794,Collingwood, St Kilda,112,71
+74, Sat 18 May 2:10pm,Gabba,20405,9795,Brisbane, Adelaide,93,92
+75, Sat 18 May 4:35pm,GMHBA Stadium,31373,9796,Geelong, Western Bulldogs,133,89
+76, Sat 18 May 7:25pm,Blundstone Arena,12799,9798,North Melbourne, Sydney,72,77
+77, Sat 18 May 7:25pm,Marvel Stadium,29176,9797,Essendon, Fremantle,60,53
+78, Sun 19 May 12:40pm,Adelaide Oval,26129,9799,Port Adelaide, Gold Coast,89,51
+79, Sun 19 May 3:20pm,MCG,64936,9800,Richmond, Hawthorn,95,59
+80, Sun 19 May 4:40pm,GIANTS Stadium,9599,9801,GWS, Carlton,138,45
+81, Fri 24 May 7:50pm,SCG,34649,9802,Sydney, Collingwood,73,80
+82, Sat 25 May 1:45pm,UTAS Stadium,11637,9803,Hawthorn, Port Adelaide,80,49
+83, Sat 25 May 2:10pm,Marvel Stadium,26156,9804,Western Bulldogs, North Melbourne,90,115
+84, Sat 25 May 4:05pm,Adelaide Oval,41630,9805,Adelaide, West Coast,73,85
+85, Sat 25 May 7:25pm,Metricon Stadium,13144,9806,Gold Coast, Geelong,64,91
+86, Sat 25 May 7:25pm,MCG,80176,9807,Richmond, Essendon,73,50
+87, Sun 26 May 1:10pm,MCG,20023,9808,Melbourne, GWS,68,94
+88, Sun 26 May 3:20pm,Optus Stadium,36383,9810,Fremantle, Brisbane,73,72
+89, Sun 26 May 3:20pm,Marvel Stadium,35058,9809,St Kilda, Carlton,68,55
+90, Fri 31 May 7:50pm,Marvel Stadium,29326,9811,North Melbourne, Richmond,99,62
+91, Sat 1 Jun 1:45pm,GIANTS Stadium,7581,9813,GWS, Gold Coast,126,43
+92, Sat 1 Jun 1:45pm,MCG,41774,9812,Collingwood, Fremantle,75,79
+93, Sat 1 Jun 4:35pm,GMHBA Stadium,29021,9814,Geelong, Sydney,85,63
+94, Sat 1 Jun 7:10pm,TIO Stadium,10634,9816,Melbourne, Adelaide,88,90
+95, Sat 1 Jun 7:25pm,Gabba,25051,9815,Brisbane, Hawthorn,85,66
+96, Sun 2 Jun 12:20pm,Jiangwan Stadium,9412,9817,St Kilda, Port Adelaide,69,139
+97, Sun 2 Jun 3:20pm,Optus Stadium,53195,9819,West Coast, Western Bulldogs,133,72
+98, Sun 2 Jun 3:20pm,MCG,50423,9818,Essendon, Carlton,74,33
+99, Fri 7 Jun 7:50pm,MCG,65214,9820,Richmond, Geelong,37,104
+100, Sat 8 Jun 1:45pm,Marvel Stadium,32211,9821,Carlton, Brisbane,78,63
+101, Sat 8 Jun 4:35pm,Metricon Stadium,9305,9822,Gold Coast, North Melbourne,72,99
+102, Sat 8 Jun 7:10pm,Adelaide Oval,41710,9823,Adelaide, GWS,82,61
+103, Sun 9 Jun 3:20pm,SCG,36640,9824,Sydney, West Coast,116,71
+104, Mon 10 Jun 3:20pm,MCG,74036,9825,Collingwood, Melbourne,98,57
+105, ,BYE,,9826,Essendon,,,
+106, ,BYE,,9827,Western Bulldogs,,,
+107, ,BYE,,9828,Fremantle,,,
+108, ,BYE,,9829,Hawthorn,,,
+109, ,BYE,,9830,Port Adelaide,,,
+110, ,BYE,,9831,St Kilda,,,
+111, Thu 13 Jun 7:20pm,Adelaide Oval,40837,9832,Adelaide, Richmond,101,68
+112, Fri 14 Jun 7:50pm,Marvel Stadium,44846,9833,Essendon, Hawthorn,96,77
+113, Sat 15 Jun 1:45pm,Riverway Stadium,7243,9834,Gold Coast, St Kilda,76,80
+114, Sat 15 Jun 2:35pm,Optus Stadium,37451,9835,Fremantle, Port Adelaide,100,79
+115, Sat 15 Jun 7:25pm,Marvel Stadium,35479,9836,Carlton, Western Bulldogs,100,103
+116, Sun 16 Jun 3:20pm,Blundstone Arena,7832,9837,North Melbourne, GWS,68,91
+117, ,BYE,,9838,Collingwood,,,
+118, ,BYE,,9839,Geelong,,,
+119, ,BYE,,9840,Melbourne,,,
+120, ,BYE,,9841,Sydney,,,
+121, ,BYE,,9843,West Coast,,,
+122, ,BYE,,9842,Brisbane,,,
+123, Thu 20 Jun 6:10pm,Optus Stadium,52810,9844,West Coast, Essendon,106,71
+124, Fri 21 Jun 7:50pm,SCG,29553,9846,Sydney, Hawthorn,82,63
+125, Sat 22 Jun 1:45pm,MCG,20211,9845,Melbourne, Fremantle,85,71
+126, Sat 22 Jun 4:35pm,Marvel Stadium,22885,9847,St Kilda, Brisbane,59,115
+127, Sat 22 Jun 7:10pm,Adelaide Oval,37726,9848,Port Adelaide, Geelong,67,56
+128, Sun 23 Jun 3:20pm,Marvel Stadium,39836,9849,Western Bulldogs, Collingwood,73,82
+129, ,BYE,,9850,Adelaide,,,
+130, ,BYE,,9852,Carlton,,,
+131, ,BYE,,9851,North Melbourne,,,
+132, ,BYE,,9853,Richmond,,,
+133, ,BYE,,9854,Gold Coast,,,
+134, ,BYE,,9855,GWS,,,
+135, Thu 27 Jun 7:20pm,Marvel Stadium,25195,9856,Essendon, GWS,77,71
+136, Fri 28 Jun 7:50pm,GMHBA Stadium,28108,9857,Geelong, Adelaide,96,69
+137, Sat 29 Jun 1:45pm,MCG,31895,9858,Hawthorn, West Coast,71,77
+138, Sat 29 Jun 4:35pm,SCG,26194,9859,Sydney, Gold Coast,93,51
+139, Sat 29 Jun 7:10pm,Adelaide Oval,25623,9861,Port Adelaide, Western Bulldogs,41,66
+140, Sat 29 Jun 7:25pm,Marvel Stadium,38801,9860,Collingwood, North Melbourne,37,81
+141, Sun 30 Jun 1:10pm,Marvel Stadium,40962,9862,St Kilda, Richmond,70,103
+142, Sun 30 Jun 3:20pm,Optus Stadium,37293,9863,Fremantle, Carlton,75,79
+143, Sun 30 Jun 3:20pm,Gabba,24809,9864,Brisbane, Melbourne,107,74
+144, Fri 5 Jul 7:50pm,MCG,66407,9865,Hawthorn, Collingwood,67,63
+145, Sat 6 Jul 1:45pm,MCG,60199,9866,Essendon, Sydney,76,66
+146, Sat 6 Jul 2:10pm,Metricon Stadium,16031,9867,Gold Coast, Richmond,58,150
+147, Sat 6 Jul 4:05pm,Adelaide Oval,50544,9868,Adelaide, Port Adelaide,44,101
+148, Sat 6 Jul 6:10pm,Optus Stadium,56358,9870,Fremantle, West Coast,31,122
+149, Sat 6 Jul 7:25pm,Marvel Stadium,35641,9869,Western Bulldogs, Geelong,71,55
+150, Sun 7 Jul 1:10pm,MCG,55593,9871,Carlton, Melbourne,100,105
+151, Sun 7 Jul 3:20pm,Blundstone Arena,10696,9872,North Melbourne, St Kilda,112,73
+152, Sun 7 Jul 4:40pm,GIANTS Stadium,12268,9873,GWS, Brisbane,74,94
+153, Fri 12 Jul 6:10pm,Optus Stadium,56251,9874,West Coast, Collingwood,77,78
+154, Sat 13 Jul 1:45pm,SCG,32570,9875,Sydney, Carlton,62,69
+155, Sat 13 Jul 2:10pm,UTAS Stadium,13006,9876,Hawthorn, Fremantle,84,53
+156, Sat 13 Jul 4:35pm,Marvel Stadium,45682,9877,Essendon, North Melbourne,86,81
+157, Sat 13 Jul 7:25pm,GMHBA Stadium,24035,9879,Geelong, St Kilda,84,57
+158, Sat 13 Jul 7:25pm,Metricon Stadium,8741,9878,Gold Coast, Adelaide,56,151
+159, Sun 14 Jul 1:10pm,MCG,38986,9880,Richmond, GWS,94,67
+160, Sun 14 Jul 3:20pm,Marvel Stadium,26781,9881,Western Bulldogs, Melbourne,74,66
+161, Sun 14 Jul 4:10pm,Adelaide Oval,33118,9882,Port Adelaide, Brisbane,49,97
+162, Fri 19 Jul 7:20pm,Adelaide Oval,47735,9883,Adelaide, Essendon,75,96
+163, Sat 20 Jul 1:45pm,MCG,41642,9884,Richmond, Port Adelaide,101,63
+164, Sat 20 Jul 2:10pm,Marvel Stadium,31765,9885,Carlton, Gold Coast,99,75
+165, Sat 20 Jul 4:35pm,GIANTS Stadium,15467,9886,GWS, Collingwood,122,75
+166, Sat 20 Jul 6:10pm,Optus Stadium,33594,9888,Fremantle, Sydney,52,51
+167, Sat 20 Jul 7:25pm,Gabba,23833,9887,Brisbane, North Melbourne,87,75
+168, Sun 21 Jul 1:10pm,MCG,53636,9889,Geelong, Hawthorn,61,85
+169, Sun 21 Jul 2:50pm,TIO Traegar Park,7164,9890,Melbourne, West Coast,78,91
+170, Sun 21 Jul 4:40pm,Marvel Stadium,21705,9891,St Kilda, Western Bulldogs,116,89
+171, Fri 26 Jul 7:50pm,MCG,78722,9892,Collingwood, Richmond,66,98
+172, Sat 27 Jul 1:45pm,UTAS Stadium,15157,9894,Hawthorn, Brisbane,60,87
+173, Sat 27 Jul 2:10pm,MCG,38369,9893,Carlton, Adelaide,87,60
+174, Sat 27 Jul 2:35pm,Optus Stadium,54376,9895,West Coast, North Melbourne,121,72
+175, Sat 27 Jul 7:10pm,Adelaide Oval,27591,9896,Port Adelaide, GWS,55,56
+176, Sat 27 Jul 7:25pm,Marvel Stadium,22854,9897,St Kilda, Melbourne,104,85
+177, Sun 28 Jul 1:10pm,Marvel Stadium,21181,9898,Western Bulldogs, Fremantle,113,66
+178, Sun 28 Jul 3:20pm,SCG,32911,9899,Sydney, Geelong,80,107
+179, Sun 28 Jul 4:40pm,Metricon Stadium,15759,9900,Gold Coast, Essendon,96,106
+180, Fri 2 Aug 7:50pm,Marvel Stadium,33226,9901,North Melbourne, Hawthorn,86,64
+181, Sat 3 Aug 1:45pm,Marvel Stadium,42940,9902,Essendon, Port Adelaide,67,126
+182, Sat 3 Aug 2:10pm,GIANTS Stadium,16116,9903,GWS, Sydney,83,81
+183, Sat 3 Aug 2:35pm,Optus Stadium,36310,9904,Fremantle, Geelong,95,61
+184, Sat 3 Aug 7:10pm,Adelaide Oval,39984,9906,Adelaide, St Kilda,92,70
+185, Sat 3 Aug 7:25pm,MCG,37254,9905,Melbourne, Richmond,60,93
+186, Sun 4 Aug 1:10pm,MCG,33577,9907,Collingwood, Gold Coast,120,51
+187, Sun 4 Aug 3:20pm,Marvel Stadium,32802,9908,Carlton, West Coast,75,99
+188, Sun 4 Aug 4:40pm,Gabba,25831,9909,Brisbane, Western Bulldogs,98,80
+189, Fri 9 Aug 7:50pm,Canberra Oval,11741,9917,GWS, Hawthorn,29,85
+190, Sat 10 Aug 1:40pm,Adelaide Oval,29568,9918,Port Adelaide, Sydney,103,56
+191, Sat 10 Aug 1:45pm,MCG,31903,9910,Melbourne, Collingwood,53,70
+192, Sat 10 Aug 4:35pm,Gabba,22530,9915,Brisbane, Gold Coast,144,53
+193, Sat 10 Aug 7:25pm,Marvel Stadium,41816,9914,Essendon, Western Bulldogs,33,137
+194, Sat 10 Aug 7:25pm,GMHBA Stadium,21664,9912,Geelong, North Melbourne,69,14
+195, Sun 11 Aug 1:10pm,Marvel Stadium,17715,9916,St Kilda, Fremantle,72,69
+196, Sun 11 Aug 3:20pm,MCG,51039,9911,Richmond, Carlton,73,45
+197, Sun 11 Aug 3:20pm,Optus Stadium,54994,9913,West Coast, Adelaide,90,80
+198, Fri 16 Aug 7:50pm,MCG,23700,9919,Melbourne, Sydney,42,95
+199, Sat 17 Aug 1:45pm,MCG,51786,9920,Carlton, St Kilda,78,68
+200, Sat 17 Aug 2:10pm,Gabba,35608,9921,Brisbane, Geelong,75,74
+201, Sat 17 Aug 4:05pm,Adelaide Oval,48175,9922,Adelaide, Collingwood,48,114
+202, Sat 17 Aug 6:10pm,Optus Stadium,47833,9923,Fremantle, Essendon,55,87
+203, Sat 17 Aug 7:25pm,Marvel Stadium,17063,9924,North Melbourne, Port Adelaide,144,58
+204, Sun 18 Aug 1:10pm,MCG,57415,9925,Richmond, West Coast,88,82
+205, Sun 18 Aug 3:20pm,GIANTS Stadium,10139,9926,GWS, Western Bulldogs,65,126
+206, Sun 18 Aug 4:40pm,Marvel Stadium,31331,9927,Hawthorn, Gold Coast,118,48
